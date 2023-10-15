@@ -1,0 +1,16 @@
+body {
+    background-color: green;
+  }
+  
+  .tag {
+    text-align: center;
+  }
+  
+  .slick-slide img {
+    display: block;
+    margin: auto;
+    width: 50rem; /* Set a specific width in pixels */
+    height: 20rem; /* Set a specific height in pixels */
+    object-fit: contain; /* Maintain aspect ratio */
+  }
+  
